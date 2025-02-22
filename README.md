@@ -107,7 +107,7 @@ This project is **closed-source** and strictly for **educational purposes only**
 ## 🌍 Community & Support  
 
 💬 Join our **[Discord Server]([https://discord.gg/F2nJmajw])** for updates, support, and discussions.  
-🐞 Report bugs and suggest features on our **[GitHub Issues](https://github.com/your-repo/issues)**.  
+🐞 Report bugs and suggest features on our **[GitHub Issues](https://github.com/pizza-client-release/v2.7.7/issues)**.  
 
 ---
 
