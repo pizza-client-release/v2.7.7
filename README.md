@@ -30,6 +30,7 @@
 ✔ **Auto Routes** – Automatically complete secrets in most rooms.
 
 
+
 ### 🌾 Farming & Macros  
 ✔ **Auto Cane / Melon / Pumpkin** – Fully automated farming with anti-AFK detection.  
 
@@ -45,6 +46,7 @@
 
 
 
+
 ### 📈 Bazaar & Auction House  
 ✔ **BIN Sniper** – Instantly buy underpriced items before others.  
 
@@ -53,6 +55,7 @@
 ✔ **Instant Collection** – Instantly collect Bazaar & AH winnings without delay. 
 
 ✔ **Auction Flipper** - Automatically lists good flips in chat without throttling.
+
 
 
 ### 🏦 Miscellaneous QoL Cheats   
