@@ -67,4 +67,46 @@
 | Auto Secrets         | ⚠️ Risky      | Use with low settings       |
 | Auto Blaze Puzzle    | ✅ Undetected | Instant solution            |
 | ESP Features         | ✅ Undetected | Safe for now                |
-| Auto Fishing         | ✅ Undetected | Wo
+| Auto Fishing         | ✅ Undetected | Works with anti-AFK         |
+| Auto Crop Farming    | ✅ Undetected | Low ban risk                |
+| Fly (Limited)        | ❌ Detected   | Use at your own risk        |
+| BIN Sniper           | ⚠️ Risky      | May trigger watchdog        |
+
+🚨 **Join our Discord for real-time bypass updates!**
+
+---
+
+## ⚠ Disclaimer
+
+**⚠ WARNING: This mod violates Hypixel’s rules.**
+
+- Using **any** cheat in Hypixel Skyblock can lead to a **ban**.
+- While Pizza Client has built-in **anti-detection** features, Hypixel’s **Watchdog is updated regularly**.
+- We are **not responsible** for bans, wiped profiles, or lost accounts. **Use at your own risk!**
+
+---
+
+## 🛠 Development & Contributions
+
+Want to contribute? Fork the repo and submit a pull request!
+
+- **GitHub Issues** – Report bugs or request features.
+- **Discord Support** – Join the [Pizza Client Discord](https://discord.gg/F2nJmajw) for help.
+- **Custom Modules** – Extend Pizza Client with your own scripts and cheats!
+
+---
+
+## 📜 License
+
+This project is **closed-source** and strictly for **educational purposes only**. Redistribution is prohibited.
+
+---
+
+## 🌍 Community & Support
+
+💬 Join our **[Discord Server](https://discord.gg/F2nJmajw)** for updates, support, and discussions.  
+🐞 Report bugs and suggest features on our **[GitHub Issues](https://github.com/pizza-client-release/v2.7.7/issues)**.
+
+---
+
+🚀 **Optimize your Hypixel Skyblock grind with Pizza Client!** 🍕
