@@ -11,17 +11,15 @@
 ## ⚡ Features  
 
 ### 🏰 Dungeons (F7 / M7 Optimizations)  
-✔ **Auto Terminals** – Instantly complete all Terminal puzzles in F7/M7.  
-✔ **Auto Secrets** – Automatically collect dungeon secrets for faster clear times.  
-✔ **Solvers** – Automatic puzzle solutions for Tic-Tac-Toe, Water Board, Ice Fill, and more.  
-✔ **ESP & Wallhacks** – Highlight chests, Wither Doors, Levers, Mobs, and teammates through walls.  
+✔ **Auto Terminals** – Instantly complete Terminals in F7/M7.  
+✔ **Inv Walk Terminals** - Walk to the next terminal whilst in Terminal GUI.
+✔ **Auto Routes** – Automatically complete secrets in most rooms.
+✔ **Solvers** – Automatic puzzle macro for Tic-Tac-Toe, Water Board, Ice Fill, Blaze and more.  
+✔ **ESP & Wallhacks** – Highlight chests, Wither Doors, Levers, Starred Mobs, and teammates through walls.  
 ✔ **Ghost Blocks** – Use ghost blocks for faster movement and glitching through obstacles.  
-✔ **Auto Blaze Puzzle** – One-click solution to Blaze puzzle without aiming.  
-✔ **Auto Simon Says** – Instantly complete Simon Says without delay.  
 ✔ **Auto Levers** – Automatically flip all levers in rooms that require them.  
-✔ **Auto Blood Camp** – Automatically attack mobs in Blood Room before the boss spawns.  
-✔ **No Slowdown** – Remove slow effects from ice or trap rooms.  
-✔ **Auto Stonk** – Automatically break the correct block to enter secret rooms faster.  
+✔ **Auto Blood Camp** – Triggerbot/killaura for blood mobs.  
+✔ **Terminator Autoclicker** - Clicks at high CPS while holding right click for optimal DPS/
 
 ### 🌾 Farming & Macros  
 ✔ **Auto Cane / Melon / Pumpkin** – Fully automated farming with anti-AFK detection.  
@@ -38,14 +36,13 @@
 ✔ **Auto Sell** – Automatically sell items at the best possible price.  
 ✔ **Instant Collection** – Instantly collect Bazaar & AH winnings without delay.  
 
-### 🏦 Miscellaneous QoL Cheats  
-✔ **No Hit Delay** – Attack with no cooldown for higher DPS.  
+### 🏦 Miscellaneous QoL Cheats   
 ✔ **No Fall Damage** – Completely negate fall damage, useful for farming and dungeons.  
 ✔ **Free Cam** – Move the camera freely without moving your character.  
-✔ **Fly (Limited)** – Works in certain safe zones without being detected.  
-✔ **Anti-KB** – Reduce knockback from mobs in certain scenarios.  
-✔ **Auto Pet Swap** – Automatically switch pets based on your activity.  
+✔ **Fly (Limited)** – Works in certain safe zones without being detected. (after being boosted by f7 lava)
+✔ **Anti-KB** – Reduce knockback from mobs in certain scenarios.   
 ✔ **Diana Burrow ESP** – Highlights the exact location of Mythological Event burrows.  
+✔ **Killaura** - Attacks nearby mobs with no user input 
 
 ---
 
