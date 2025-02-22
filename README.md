@@ -80,7 +80,7 @@
 
 **⚠ WARNING: This mod violates Hypixel’s rules.**
 
-- Using **any** cheat in Hypixel Skyblock can lead to a **ban**.
+- Using **any** cheat in Hypixel Skyblock **can** lead to a **ban**.
 - While Pizza Client has built-in **anti-detection** features, Hypixel’s **Watchdog is updated regularly**.
 - We are **not responsible** for bans, wiped profiles, or lost accounts. **Use at your own risk!**
 
