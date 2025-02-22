@@ -24,17 +24,19 @@
 ### 🌾 Farming & Macros  
 ✔ **Auto Cane / Melon / Pumpkin** – Fully automated farming with anti-AFK detection.  
 ✔ **Auto Wart / Carrot / Potato** – Farm infinitely with no manual input required.  
-✔ **Auto Foraging** – Chop trees and instantly replant saplings.  
-✔ **Auto Mining (Gemstones & Mithril)** – Mine automatically while detecting Titanium spawns.  
-✔ **Auto Fishing** – Catch and reel in sea creatures instantly.  
-✔ **ESP for Fairy Souls** – See all Fairy Soul locations on your screen.  
-✔ **Crop Growth Timer** – Shows when crops are fully grown for maximum efficiency.  
+✔ **Auto Foraging** – Chop trees and instantly replants and bone meals sapplings. (only works on island) 
+✔ **Auto Mining (Gemstones & Mithril)** – Mine automatically while detecting Titanium spawns. (can configure gemstone routes)
+✔ **Auto Fishing** – Macros Fishing while inputting random movements to prevent detection.
+✔ **Fairy Soul Waypoints** – See all Fairy Soul locations on your screen.  
+
+
 
 ### 📈 Bazaar & Auction House  
 ✔ **BIN Sniper** – Instantly buy underpriced items before others.  
-✔ **Price Tracker** – See historical prices and trends to predict flips.  
-✔ **Auto Sell** – Automatically sell items at the best possible price.  
-✔ **Instant Collection** – Instantly collect Bazaar & AH winnings without delay.  
+✔ **Price Tracker** – See historical prices and trends to predict flips.   
+✔ **Instant Collection** – Instantly collect Bazaar & AH winnings without delay. 
+✔ **Auction Flipper** - Automatically lists good flips in chat without throttling.
+
 
 ### 🏦 Miscellaneous QoL Cheats   
 ✔ **No Fall Damage** – Completely negate fall damage, useful for farming and dungeons.  
