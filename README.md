@@ -112,5 +112,4 @@ This project is **closed-source** and strictly for **educational purposes only**
 🚀 **Optimize your Hypixel Skyblock grind with Pizza Client!** 🍕"
 
 
-make it better, include more features (features that pizza client ACTUALLY has) and give me the formatting
 
