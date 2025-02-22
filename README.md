@@ -1,8 +1,8 @@
-# 🍕 Pizza Client - Hypixel Skyblock Dungeon & Macro Mod  
+# 🍕 Pizza Client - Hypixel Skyblock QOL Mod 
 
 ![Pizza Client Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtFFQwQ3i7o1hyZNVGYbwtjl2D_RQf5mYLvQ&s)  
 
-**Pizza Client** is a **Hypixel Skyblock cheat and Quality of Life (QoL) mod** designed to **optimize dungeons, automate farming, and boost efficiency**. Whether you're grinding **F7/M7**, farming for coins, or flipping items on the Bazaar, **Pizza Client gives you an edge** while minimizing detection risk.  
+**Pizza Client** is a **Hypixel Skyblock cheat and Quality of Life (QoL) mod** designed to **optimize dungeons, automate farming, and boost efficiency**. Whether you're grinding **Dungeons**, farming for coins, or flipping items on the Bazaar, **Pizza Client gives you an edge** while minimizing detection risk.  
 
 🚨 **Use at your own risk!** Hypixel has an advanced anti-cheat system (Watchdog), and using cheats may result in a ban.  
 
