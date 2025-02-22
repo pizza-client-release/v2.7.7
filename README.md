@@ -12,21 +12,13 @@
 
 ### 🏰 Dungeons (F7 / M7 Optimizations)  
 ✔ **Auto Terminals** – Instantly complete Terminals in F7/M7.  
-
 ✔ **Inv Walk Terminals** - Walk to the next terminal whilst in Terminal GUI.
-
 ✔ **Solvers** – Automatic puzzle macro for Tic-Tac-Toe, Water Board, Ice Fill, Blaze and more.  
-
 ✔ **ESP & Wallhacks** – Highlight chests, Wither Doors, Levers, Starred Mobs, and teammates through walls.  
-
 ✔ **Ghost Blocks** – Use ghost blocks for faster movement and glitching through obstacles.  
-
 ✔ **Auto Levers** – Automatically flip all levers in rooms that require them.  
-
 ✔ **Auto Blood Camp** – Triggerbot/killaura for blood mobs.  
-
 ✔ **Terminator Autoclicker** - Clicks at high CPS while holding right click for optimal DPS.
-
 ✔ **Auto Routes** – Automatically complete secrets in most rooms.
 
 
