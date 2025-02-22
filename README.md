@@ -91,7 +91,7 @@
 Want to contribute? Fork the repo and submit a pull request!
 
 - **GitHub Issues** – Report bugs or request features.
-- **Discord Support** – Join the [Pizza Client Discord](https://discord.gg/F2nJmajw) for help.
+- **Discord Support** – Join the [Pizza Client Discord](https://discord.gg/F2nJmajw) for help or to buy **Pizza Premium!**.
 - **Custom Modules** – Extend Pizza Client with your own scripts and cheats!
 
 ---
