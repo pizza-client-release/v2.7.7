@@ -65,7 +65,7 @@
 |----------------------|---------------|-----------------------------|
 | Auto Terminals       | ✅ Undetected | Works in F7/M7              |
 | Auto Secrets         | ⚠️ Risky      | Use with low settings       |
-| Auto Blaze Puzzle    | ✅ Undetected | Safe for now                |
+| Auto Puzzles         | ✅ Undetected | Safe for now                |
 | ESP Features         | ✅ Undetected | Safe for now                |
 | Auto Fishing         | ✅ Undetected | Works with anti-AFK         |
 | Auto Crop Farming    | ✅ Undetected | Low ban risk                |
